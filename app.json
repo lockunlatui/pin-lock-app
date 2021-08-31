@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pin-lock-app",
+    "slug": "pin-lock-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pin-lock-app"
+}
