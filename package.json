@@ -7,6 +7,8 @@
     "start": "react-native start"
   },
   "dependencies": {
+    "@haskkor/react-native-pincode": "^1.22.6",
+    "@react-native-community/async-storage": "^1.12.1",
     "expo": "~42.0.1",
     "expo-splash-screen": "~0.11.2",
     "expo-status-bar": "~1.0.4",
@@ -14,7 +16,9 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "~0.63.4",
+    "react-native-background-timer": "^2.4.1",
     "react-native-gesture-handler": "~1.10.2",
+    "react-native-keychain": "5.0.1",
     "react-native-reanimated": "~2.2.0",
     "react-native-screens": "~3.4.0",
     "react-native-unimodules": "~0.14.5",
